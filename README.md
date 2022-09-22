@@ -71,7 +71,7 @@ I created this shader for my own means, and I'm even using it in my current proj
 
 ## Licensing & Final Words
 
-Yeah, the license might sound pretty scary at first, but it's nothing that bad. Basically all I'm asking you is to add the first few lines from the license (as stated in the license file) to a credits page of your project. This is mainly because I do also like to get some credit from my (be it very bad) work ;)
+(MIT License) Yeah, the license might sound pretty scary at first, but it's nothing that bad. Basically all I'm asking you is to add the first few lines from the license (as stated in the license file) to a credits page of your project. This is mainly because I do also like to get some credit from my (be it very bad) work ;)
 (Also applies to if you're using this as a reference or as a base for your own shader)
 
 Hopefully you'll enjoy this mess! 
