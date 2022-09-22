@@ -61,6 +61,8 @@ And let's finish with a few wide shaded pictures.
 
 ## A few things that might be slightly confusing.
 
+SKYBOX NOT INCLUDED
+
 I know that the rep name is "URP Water Shader Graph", but for all I'm aware of, this should work even with HDRP and Built-in! And if not straight from the get-go, it shouldn't be too hard to port over. 
 
 The bright yellow/orange shimmering seen in some of the pics is just the realtime directional light reacting to the smoothness & metallic values. And it of course changes based on your water color, sun color and smoothness/metallic values.
