@@ -96,6 +96,6 @@ Enjoy, and thanks for checking this out.
 
 [Making a water shader in Unity URP (Unity's tutorial) ](https://youtu.be/gRq-IdShxpU)
 
-[Making a Vertex Displacement in Unity (Unity's tutorial)[https://youtu.be/vh85pzT959M)
+[Making a Vertex Displacement in Unity (Unity's tutorial)[(https://youtu.be/vh85pzT959M)
 
 Unity Docs (no specific pages, just the docs in general)
