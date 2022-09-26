@@ -3,6 +3,8 @@
 
 ![watershadermain](https://user-images.githubusercontent.com/93699568/191806620-c5d76c41-c1be-458f-a1f9-1c73622c9d18.PNG)
 
+###### [A few pictures were accidentally repeated in the showcase part. Fixed those. :)]
+
 ## Properties
 
 ![properties](https://user-images.githubusercontent.com/93699568/191807124-5f08e7d5-82a8-41a2-a358-193cf220070e.PNG)
@@ -43,11 +45,11 @@ Here, as you can see, are 20 vertex-heavy planes taken straight from Blender wit
 
 And from the side, to prove that the vertex waves are being used
 
-![watervertices](https://user-images.githubusercontent.com/93699568/191812926-fba13257-fdf9-4486-bba6-e7fb8e8a5a20.PNG)
+![verticesfromtheside](https://user-images.githubusercontent.com/93699568/192340737-bfb17848-0a03-4709-a222-2264c12bc14e.PNG)
 
 In shaded mode,
 
-![watervertices](https://user-images.githubusercontent.com/93699568/191813102-a8ec3c03-1347-482f-a092-2880d2f59f9d.PNG)
+![watershaded](https://user-images.githubusercontent.com/93699568/192340801-076c0199-333a-4532-8e3c-7596319be3b2.PNG)
 
 Shaded wireframe,
 
