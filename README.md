@@ -92,7 +92,7 @@ Enjoy, and thanks for checking this out.
 
 (ps. If you're facing problems or need any help, just DM me on Discord, Tespinen#1070, or ping me on the official Unity server)
 
-# Preferences
+# References
 
 ##### What I used to learn/as a reference
 
