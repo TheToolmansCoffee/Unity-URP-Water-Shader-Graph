@@ -74,7 +74,7 @@ The bright yellow/orange shimmering seen in some of the pics is just the realtim
 
 ## What this shader is meant for
 
-I created this shader for my own means, and I'm even using it in my current project, (or pevious project, depending on when you're reading this) Totally Medieval. I decided to throw it out here, because I realized that it's pretty damn amazing, even though it's very simple. Plus I like helping people :) Now, I don't really intend for this shader to be used right from the get-go in the project, but instead as a temporary asset, or as a base or reference for your own shader! But as said slightly above, by all means, you're free to use this, even with commercial projects.
+I created this shader for my own means for testing and to learn shader graph. I decided to throw it out here, because I realized that it's pretty damn amazing, even though it's very simple. Plus I like helping people :) Now, I don't really intend for this shader to be used right from the get-go in the project, but instead as a temporary asset, or as a base or reference for your own shader! But as said slightly above, by all means, you're free to use this, even with commercial projects.
 
 ## Licensing & Final Words
 
