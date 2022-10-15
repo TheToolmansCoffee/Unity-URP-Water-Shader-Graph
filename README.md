@@ -1,4 +1,7 @@
 # Unity-URP-Water-Shader-Graph
+
+### Now under the Unlicense! (public domain)
+
 ## A flexible and easily editable water shader for Unity. Made in Shader Graph.
 
 ![watershadermain](https://user-images.githubusercontent.com/93699568/191806620-c5d76c41-c1be-458f-a1f9-1c73622c9d18.PNG)
@@ -75,8 +78,7 @@ I created this shader for my own means, and I'm even using it in my current proj
 
 ## Licensing & Final Words
 
-(MIT License) Yeah, the license might sound pretty scary at first, but it's nothing that bad. Basically all I'm asking you is to add the first few lines from the license (as stated in the license file) to a credits page of your project. This is mainly because I do also like to get some credit from my (be it very bad) work ;)
-(Also applies to if you're using this as a reference or as a base for your own shader)
+(The Unlicense) I decided that changing the MIT License to the Unlicense would be a better idea. Whilst the shader is still a mess, it's better just to give that mess away for easier use so someone else might turn it into a better mess! You can still of course credit me for this mess, but you don't have to. ♥
 
 Hopefully you'll enjoy this mess! 
 
