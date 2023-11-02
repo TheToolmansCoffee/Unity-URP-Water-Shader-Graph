@@ -90,7 +90,7 @@ Timi/"Tespinen", proud shader nerd.
 
 Enjoy, and thanks for checking this out.
 
-(ps. If you're facing problems or need any help, just DM me on Discord, TheToolman#5113.)
+(ps. If you're facing problems or need any help, just DM me on Discord, timi.exe)
 
 # References
 
